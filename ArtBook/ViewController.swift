@@ -63,7 +63,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
           
             
         } catch {
-            print("error")
+            print("Error")
         }
         
     }
